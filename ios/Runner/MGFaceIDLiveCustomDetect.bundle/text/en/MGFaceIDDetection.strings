@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MGFaceIDDetect
+
+  Created by Megvii on 2017/7/17.
+  Copyright © 2017年 megvii. All rights reserved.
+*/
+
+"livenessExitLeftPromptText"                 =           "cancel";
+"livenessExitRightPromptText"                 =           "sure";
+"livenessExitTitlePromptText"                 =           "Are you sure to quit?";
+"livenessHomePromptWaitText"                 =           "Please wait for verification";
+"livenessHomePromptBlinkText"                 =           "Please blink your eyes";
+"livenessHomePromptOpenMouthText"                 =           "Please open your mouth and close it";
+"livenessHomePromptShakeHeadText"                 =           "Please shake your head";
+"livenessHomePromptNodText"                 =           "Please nod your head";
+"livenessHomePromptFrontalFaceText" = "Please show your frontal face";
+"livenessHomePromptFaceEreaText" = "Invalid face area for detection";
+"livenessHomePromptBrighterText" = "Please under brighter lights conditions";
+"livenessHomePromptDarkerText" = "Please under less bright lights conditions";
+"livenessHomePromptCloserText" = "Please come closer";
+"livenessHomePromptFurtherText" = "Please be a little farther";
+"livenessHomePromptNoBacklightingText" = "Please avoid side lighting and backlighting";
+"livenessHomePromptFrontalFaceInBoundingBoxText" = "Please fit your full-frontal face in the bounding box";
+"livenessHomePromptNoEyesOcclusionText" = "Please avoid eyes occlusion";
+"livenessHomePromptNoMouthOcclusionText" = "Please avoid mouth occlusion";
+"livenessHomePromptVerticalText" = "Please pick up the phone and keep it vertical";
+"livenessHomePromptStayStillText" = "Good, please stay still";
+"livenessHomePromptTooBrightText" = "Lights too bright, please under less bright lights conditions.";

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="livenessHomeRingColor">#EAF2F6</color>
+    <color name="livenessHomeProcessBarColor">#38B0E8</color>
+    <color name="livenessHomeValidationFailProcessBarColor">#FF0000</color>
+    <color name="livenessHomeBackgroundColor">#FFFFFF</color>
+    <color name="livenessHomePromptColor">#666666</color>
+    <color name="livenessExitTitlePromptColor">#000000</color>
+    <color name="livenessExitLeftPromptColor">#0076FF</color>
+    <color name="livenessExitRightPromptColor">#0076FF</color>
+
+    <color name="livenessRetryTitlePromptColor">#000000</color>
+    <color name="livenessRetryLeftPromptColor">#0076FF</color>
+    <color name="livenessRetryRightPromptColor">#0076FF</color>
+    <color name="livenessGuideRemindTextColor">#414244</color>
+    <color name="livenessGuideReadColor">#414244</color>
+    <color name="livenessDetectButtonTextColor">#FFFFFF</color>
+    <color name="livenessDetectButtonSelectedBGColor">#6AA0F2</color>
+    <color name="livenessDetectButtonHighlightBGColor">#4389E2</color>
+    <color name="livenessDetectButtonNormalBGColor">#CFD6DD</color>
+</resources>
